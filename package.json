@@ -1,0 +1,23 @@
+{
+  "name": "tech-blog-using-mvc-extravaganza",
+  "version": "1.0.0",
+  "description": "A blog site that has the functionallity to publish articles and blog posts styled in CMS using Model View Controller",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanAcham/Tech-Blog-Using-MVC-Extravaganza.git"
+  },
+  "keywords": [
+    "mvc"
+  ],
+  "author": "ryan acham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanAcham/Tech-Blog-Using-MVC-Extravaganza/issues"
+  },
+  "homepage": "https://github.com/RyanAcham/Tech-Blog-Using-MVC-Extravaganza#readme"
+}
